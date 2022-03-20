@@ -1,15 +1,15 @@
-> # <font class = "yellow">Standard-style project</font>
+> # Standard-style project
 
-> :Warning: Don't use this project if you a bigener in CSS.
+> :Warning: Don't use this project if you are a beginner in CSS.
 
-This is an open source project build by CSS3.
+This is an open-source project built by CSS3.
 
 ## What is the project do:
-> In easy way you can say that: this is a *standard css file* that contain stander
+> In an easy way you can say that: this is a *standard CSS file* that contains stander
 > style for your elements, to avoid the repeating of coding standard properties for every
-> element in every project. ***Use this standard and don't west your time in small datiels***
+> element in every project. ***Use this standard and don't west your time in small details***
 
-## The Standard that Added in the project Until now:
+## The Standard that Added to the project Until now:
 - **For all Elements**:
     > - Zero pxel for margin and padding.
     > - Realative position.
@@ -36,8 +36,8 @@ This is an open source project build by CSS3.
 
 ## If you want to share in this project:
     1. Download the project.
-    2. Add your stander syle for any elment.
-    3. Write a comment a bove your styling.
-    4. Add new part in the README file for your new syles.
-        > Add your new bart bellow the last part of 
+    2. Add your stander syle for any element.
+    3. Write a comment above your styling.
+    4. Add a new part in the README file for your new syles.
+        > Add your new Bart below the last part of 
         > the ***The Standard that Added in the project Until now***
