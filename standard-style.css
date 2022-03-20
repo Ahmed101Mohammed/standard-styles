@@ -1,0 +1,44 @@
+/* Standard for all elements */
+*
+{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+*::after,*::before
+{
+    content: "";
+    display: block;
+}
+
+/* Standard for body & html elements*/
+html,body
+{
+    width: 100%;
+    
+}
+
+body
+{
+    height: auto;
+}
+/* Standard for ul element*/
+ul
+{
+    list-style: none;
+    list-style-position: inside;
+}
+
+/* Standard for a elament */
+a
+{
+    text-decoration: none;
+}
+
+/* Standard for input element */
+input
+{
+    outline: none;
+}
