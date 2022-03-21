@@ -10,7 +10,7 @@
 *::after,*::before
 {
     content: "";
-    display: block;
+    display: inline-block;
 }
 
 /* Standard for body & html elements*/

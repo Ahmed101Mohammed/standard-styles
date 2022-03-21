@@ -14,7 +14,7 @@ This is an open-source project built by CSS3.
     > - Zero pxel for margin and padding.
     > - Realative position.
     > - When you change the padding and the margin, your element size will not change.
-    > - Both **After** and **Before** pusodo elements have content and block of display.
+    > - Both **After** and **Before** pusodo elements have content and inline-block of display.
 
 - **For html element**
     > - Full width.
