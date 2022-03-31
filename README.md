@@ -16,6 +16,9 @@ This is an open-source project built by CSS3.
     > - When you change the padding and the margin, your element size will not change.
     > - Both **After** and **Before** pusodo elements have content and inline-block of display.
 
+- **For the root of the page**
+    > - The behavior of the page scroling is smoothly.
+
 - **For html element**
     > - Full width.
 
@@ -30,8 +33,10 @@ This is an open-source project built by CSS3.
 - **For a element**
     > - None text decoration.
 
-- **For input element**
+- **For input and textarea elements**
     > - None outline border.
+    > - None border.
+    > - Display of the element is block.
 
 
 ## If you want to share in this project:

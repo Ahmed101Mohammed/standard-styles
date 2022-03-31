@@ -1,4 +1,4 @@
-/* Standard for all elements */
+/* Standard for all elements !*/
 *
 {
     margin: 0px;
@@ -11,6 +11,13 @@
 {
     content: "";
     display: inline-block;
+
+}
+
+/* Standerd for root */
+:root
+{
+    scroll-behavior: smooth;
 }
 
 /* Standard for body & html elements*/
@@ -35,10 +42,13 @@ ul
 a
 {
     text-decoration: none;
+    color:inherit;
 }
 
-/* Standard for input element */
-input
+/* Standard for input element !*/
+input,textarea
 {
     outline: none;
+    display: block;
+    border: none;
 }
